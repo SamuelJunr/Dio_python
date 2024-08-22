@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "sistema-banco"
+version = "0.1.0"
+description = "exercicio de python"
+authors = ["SamuelJunr <samuelgomespj@outlook.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "não"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
